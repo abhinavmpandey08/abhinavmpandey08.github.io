@@ -1,0 +1,13 @@
+h1{
+	font-style: italic;
+	color: red;
+	text-align: center;
+}
+
+#lyrics{
+	text-align: center;
+	font-size: 20px;
+	color: violet;
+	font-family: sans-serif;
+}
+
