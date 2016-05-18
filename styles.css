@@ -3,12 +3,13 @@
 	color: red;
 	text-align: center;
 	font-size: 24px;
+	font-family: 'Roboto',arial,'Noto Sans Japanese',sans-serif;
 }
 
 #lyrics{
 	text-align: center;
 	font-size: 16px;
 	color: violet;
-	font-family: sans-serif;
+	font-family: 'Roboto',arial,'Noto Sans Japanese',sans-serif;
 }
 
